@@ -16,7 +16,7 @@ sections:
         url: /store
         arrow: true
         style: primary
-      - title: lorem-ipsum
+      - title: Pick up
         url: '#'
         style: primary
         arrow: false
