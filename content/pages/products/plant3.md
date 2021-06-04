@@ -2,7 +2,7 @@
 layout: product
 id: '3'
 price: '15.00'
-title: Curabitur eu tempor
+title: Seared Tuna
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/Frame 247.png
 default_original_image: images/plant3-lg.jpg
