@@ -23,7 +23,7 @@ sections:
         style: primary
   - type: featured_products_section
     section_id: best_sellers_section
-    title: Popular items
+    title: Best sellers
     icon: false
     light_title: true
     featured_products:
