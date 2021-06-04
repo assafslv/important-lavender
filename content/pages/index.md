@@ -12,15 +12,15 @@ sections:
 
       Explore the streets and culture of Japan, one delivery at a time.
     actions:
-      - title: Order now
-        url: /store
-        arrow: true
-        style: primary
       - title: Pick up
         url: '#'
         style: primary
         arrow: false
         type: action
+      - title: Order now
+        url: /store
+        arrow: true
+        style: primary
   - type: featured_products_section
     section_id: best_sellers_section
     title: Best sellers
