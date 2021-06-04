@@ -12,7 +12,7 @@ sections:
 
       Explore the streets and culture of Japan, one delivery at a time.
     actions:
-      - title: Order Now
+      - title: See all items
         url: /store
         arrow: true
         style: primary
