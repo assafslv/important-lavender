@@ -2,7 +2,7 @@
 layout: product
 id: '5'
 price: '22.00'
-title: Vestibulum eget
+title: Chicken Katsu
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
