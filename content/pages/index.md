@@ -8,7 +8,7 @@ sections:
     background_image: images/gabriel-forsberg-9sM53e9wTTY-unsplash.jpg
     background_image_opacity: 0
     content: >-
-      This is the title .Explore the streets and culture of Japan, one delivery
+      This is the title.Explore the streets and culture of Japan, one delivery
       at a time.
     actions:
       - title: Pick up
