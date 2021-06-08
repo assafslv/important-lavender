@@ -8,9 +8,9 @@ sections:
     background_image: images/charles-deluvio-D-vDQMTfAAU-unsplash.jpg
     background_image_opacity: 0
     content: |
-      # Japanese comfort food
+      # **Japanese comfort food**
 
-      ## Explore the streets and culture of Japan, one delivery at a time.
+      ## **Explore the streets and culture of Japan, one delivery at a time.**
     actions:
       - title: Pick up
         url: '#'
