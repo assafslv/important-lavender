@@ -10,7 +10,7 @@ sections:
     content: |
       # **Japanese comfort food**
 
-      ## **Explore the streets and culture of Japan, one delivery at a time.**
+      ## Flavors from the streets of japan, delivered to your home.
     actions:
       - title: Pick up
         url: '#'
