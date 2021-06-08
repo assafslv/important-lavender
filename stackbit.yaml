@@ -292,7 +292,7 @@ models:
         description: >-
           An integer between 0 and 100. A lower value makes the image more
           transparent
-      - type: string
+      - type: markdown
         name: content
         label: Content
         description: The text content of the section.
