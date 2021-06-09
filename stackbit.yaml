@@ -263,13 +263,13 @@ models:
     folder: category
     urlPath: category/{slug}
     fields:
-      - type: string
-        name: title
-        label: Title
       - type: number
         name: order
         label: Order
         description: Numerical order of sorting categories
+      - type: string
+        name: title
+        label: Title
       - type: model
         name: seo
         models:
