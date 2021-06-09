@@ -501,6 +501,9 @@ models:
       - type: string
         name: title
         label: Title
+      - type: image
+        label: Default Thumbnail Image
+        name: default_thumbnail_image
       - type: string
         name: description
         label: Description
@@ -511,9 +514,6 @@ models:
       - type: string
         name: price
         label: Price
-      - type: image
-        label: Default Thumbnail Image
-        name: default_thumbnail_image
       - type: image
         label: Default Original Image
         name: default_original_image
