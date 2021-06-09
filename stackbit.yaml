@@ -101,16 +101,16 @@ models:
     singleInstance: true
     fields:
       - type: string
-        label: Title
-        name: title
-        description: The title of the page
-        required: true
-      - type: string
         name: page_css_class
         label: Page CSS class
       - type: boolean
         label: White header
         name: white_header
+      - type: string
+        label: Title
+        name: title
+        description: The title of the page
+        required: true
       - type: list
         name: sections
         label: Sections
