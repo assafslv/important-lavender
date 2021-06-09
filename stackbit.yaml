@@ -504,13 +504,13 @@ models:
       - type: string
         name: description
         label: Description
-      - type: string
-        name: price
-        label: Price
       - type: number
         name: order
         label: Order
         description: numerical order of sorting products
+      - type: string
+        name: price
+        label: Price
       - type: image
         label: Default Thumbnail Image
         name: default_thumbnail_image
