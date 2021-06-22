@@ -1,4 +1,4 @@
----
+ ---
 layout: home
 title: Home
 white_header: true
