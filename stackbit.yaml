@@ -144,6 +144,9 @@ models:
       - category/**
       - products/**
     fields:
+      - type: boolean
+        label: White header
+        name: white_header
       - type: string
         name: page_css_class
         label: Page CSS class
@@ -152,9 +155,6 @@ models:
         name: title
         description: The title of the page
         required: true
-      - type: boolean
-        label: White header
-        name: white_header
       - type: list
         name: sections
         label: Sections
