@@ -263,6 +263,11 @@ models:
     folder: category
     urlPath: category/{slug}
     fields:
+      - type: model
+        name: seo
+        models:
+          - stackbit_page_meta
+        label: Seo
       - type: string
         name: title
         label: Title
@@ -270,11 +275,6 @@ models:
         name: order
         label: Order
         description: Numerical order of sorting categories
-      - type: model
-        name: seo
-        models:
-          - stackbit_page_meta
-        label: Seo
   hero_section:
     type: object
     label: Hero Section
